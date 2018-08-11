@@ -1,6 +1,6 @@
 # amazfit-watchface-digital-progess-meter
 
-Data for https://amazfitwatchfaces.com/bip/view/?id=11283 
+Images and config for https://amazfitwatchfaces.com/bip/view/?id=11283
 
 ### How do I use/modify it?
 
