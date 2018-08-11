@@ -1,0 +1,206 @@
+{
+    "Background": {
+        "Image": {
+            "X": 0,
+            "Y": 0,
+            "ImageIndex": 0
+        }
+    },
+    "Time": {
+        "Hours": {
+            "Tens": {
+                "X": 16,
+                "Y": 54,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 43,
+                "Y": 54,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        },
+        "Minutes": {
+            "Tens": {
+                "X": 72,
+                "Y": 54,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            },
+            "Ones": {
+                "X": 97,
+                "Y": 54,
+                "ImageIndex": 1,
+                "ImagesCount": 10
+            }
+        }
+    },
+    "Date": {
+        "WeekDay": {
+            "X": 4,
+            "Y": 4,
+            "ImageIndex": 31,
+            "ImagesCount": 7
+        },
+        "MonthAndDay": {
+            "TwoDigitsMonth": true,
+            "TwoDigitsDay": true,
+            "Separate": {
+                "Day": {
+                    "TopLeftX": 106,
+                    "TopLeftY": 28,
+                    "BottomRightX": 131,
+                    "BottomRightY": 47,
+                    "Alignment": "TopRight",
+                    "Spacing": 3,
+                    "ImageIndex": 11,
+                    "ImagesCount": 10
+                },
+                "Month": {
+                    "TopLeftX": 142,
+                    "TopLeftY": 28,
+                    "BottomRightX": 167,
+                    "BottomRightY": 47,
+                    "Alignment": "TopRight",
+                    "Spacing": 3,
+                    "ImageIndex": 11,
+                    "ImagesCount": 10
+                }
+            }
+        }
+    },
+    "Status": {
+        "Alarm": {
+            "Coordinates": {
+                "X": 150,
+                "Y": 73
+            },
+            "ImageIndexOn": 156
+        },
+        "Bluetooth": {
+            "Coordinates": {
+                "X": 149,
+                "Y": 57
+            },
+            "ImageIndexOn": 154,
+            "ImageIndexOff": 155
+        },
+        "DoNotDisturb": {
+            "Coordinates": {
+                "X": 132,
+                "Y": 57
+            },
+            "ImageIndexOn": 158
+        },
+        "Lock": {
+            "Coordinates": {
+                "X": 132,
+                "Y": 73
+            },
+            "ImageIndexOn": 157
+        }
+    },
+    "Battery": {
+        "Icon": {
+            "X": 69,
+            "Y": 99,
+            "ImageIndex": 59,
+            "ImagesCount": 1
+        },
+        "Text": {
+            "TopLeftX": 41,
+            "TopLeftY": 100,
+            "BottomRightX": 67,
+            "BottomRightY": 114,
+            "Alignment": "TopRight",
+            "Spacing": 1,
+            "ImageIndex": 49,
+            "ImagesCount": 10
+        },
+        "Scale": {
+            "StartImageIndex": 60,
+            "Segments": [
+                {
+                    "X": 72,
+                    "Y": 102
+                },
+                {
+                    "X": 75,
+                    "Y": 102
+                },
+                {
+                    "X": 78,
+                    "Y": 102
+                },
+                {
+                    "X": 81,
+                    "Y": 102
+                },
+                {
+                    "X": 84,
+                    "Y": 102
+                },
+                {
+                    "X": 87,
+                    "Y": 102
+                }
+            ]
+        }
+    },
+    "Activity": {
+        "Steps": {
+            "TopLeftX": 15,
+            "TopLeftY": 145,
+            "BottomRightX": 81,
+            "BottomRightY": 164,
+            "Alignment": "TopRight",
+            "Spacing": 1,
+            "ImageIndex": 21,
+            "ImagesCount": 10
+        }
+    },
+    "StepsProgress": {
+        "Linear": {
+            "StartImageIndex": 38,
+            "Segments": [
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                },
+                {
+                    "X": 97,
+                    "Y": 97
+                }
+            ]
+        }
+    }
+}
